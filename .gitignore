@@ -1,0 +1,29 @@
+# config
+.env
+.tmp/
+tmp/
+
+# Sample media file.
+media/
+
+
+# python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# python distribution / packaging
+.Python
+build/
+eggs/
+.eggs/
+*.egg-info/
+*.egg
+
+# python environments
+.env
+.venv
+env/
+venv/
+
+
